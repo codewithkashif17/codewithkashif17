@@ -426,7 +426,9 @@ to the developer community.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/codewithkashif17/codewithkashif17/output/github-contribution-grid-snake-dark.svg"/>
+
+  <img src="https://raw.githubusercontent.com/codewithkashif17/codewithkashif17/gh-pages/github-contribution-grid-snake-dark.svg" />
+
 
 </div>
 
