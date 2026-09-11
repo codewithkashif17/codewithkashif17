@@ -1,507 +1,225 @@
 
+
 <div align="center">
 
-<div style="position: relative;">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:0d3320,100:00ff41&text=root@kashiTech:~%23&fontColor=39FF14&fontSize=48&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FLUTTER%20%7C%20FULL%20STACK%20%7C%20QT&descAlignY=58&descSize=16&descColor=39FF14&animation=fadeIn" width="100%"/>
 
-<!-- Background Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:1f6feb,100:7c3aed" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=%24+whoami;kashif-mehmood+%E2%80%94+software+engineer;%24+cat+status.txt;compiling+ideas+into+code+since+2022;%24+./run.sh+--mode%3Dproduction;system+ready+%E2%9C%93" background="#00000000"/>
 
-<!-- Animated Name Over Background -->
-<img src="./name.svg" 
-     width="700"
-     style="position:absolute; top:30px; left:50%; transform:translateX(-50%);" />
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&logo=statuspage&logoColor=39FF14&labelColor=000000" />
+<img src="https://komarev.com/ghpvc/?username=codewithkashif17&label=CONNECTIONS&color=000000&style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/github/followers/codewithkashif17?label=FOLLOWERS&style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=39FF14" />
 
 </div>
 
 <br>
 
+<div align="center">
 
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d3320,100:00ff41&height=3&width=500" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=1200&color=39FF14&center=true&vCenter=true&width=650&height=45&lines=root%40kashiTech%3A~%24+nmap+-sV+--script%3Dwhoami+kashif.dev" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,50:0d3320,100:000000&height=3&width=500" />
 
 </div>
 
-
-
 <div align="center">
 
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Flutter+Developer;Full+Stack+Developer;Desktop+Application+Developer;Open+Source+Contributor;Problem+Solver;Always+Learning" />
-
-<div align="center">
-
-</br>
-</br>
-</br>
-
-#  GET IN TOUCH
-
-<table>
-<tr>
-
-<td align="center" width="220">
-
-<img src="https://skillicons.dev/icons?i=github" width="40"/>
-
-##### GitHub
-
-
-
-<a href="https://github.com/codewithkashif17">Visit Profile →</a>
-
-</td>
-
-<td align="center" width="220">
-
-<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-
-##### LinkedIn
-
-
-
-<a href="https://linkedin.com/in/kashif-mehmood-a47594397">Connect →</a>
-
-</td>
-
-<td align="center" width="220">
-
-<img src="https://skillicons.dev/icons?i=gmail" width="40"/>
-
-##### Email
-
-
-
-<a href="mailto:kashifmehmoodtech17@email.com">Contact →</a>
-
-</td>
-
-</tr>
-</table>
+| PARAMETER  | VALUE                                     |
+| :--------- | :---------------------------------------- |
+| `name`     | Kashif Mehmood                            |
+| `role`     | Software Engineer                         |
+| `location` | Kohat, Khyber Pakhtunkhwa, PK `[🇵🇰]`      |
+| `stack`    | Flutter • Full-Stack • Qt • System Design |
+| `learning` | Cloud Computing • DevOps • CI/CD          |
+| `uptime`   | Always Learning, Never Idle               |
+| `shell`    | `clean-code` `SOLID` `scalable-arch`      |
 
 </div>
 
-
+<br>
 
 <div align="center">
 
-</br>
-</br>
-</br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d3320,100:00ff41&height=3&width=500" />
 
-#  ABOUT  ME
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=1200&color=39FF14&center=true&vCenter=true&width=650&height=45&lines=root%40kashiTech%3A~%24+./connect.sh+--all-channels" />
 
-```yaml
-╔═════════════════════════════════════════════════════════════════════════════════╗
-║                            KASHIF MEHMOOD                                       ║
-║                    Software Engineer • 🇵🇰 Pakistan                               ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,50:0d3320,100:000000&height=3&width=500" />
 
-┌───────────────────────────────────────────────────────────────────────────────┐
-│                                  PROFILE                                      │
-├──────────────────────┬─────────────────────────────────────────────────────────┤
-│ Name                 │ Kashif Mehmood                                          │
-├──────────────────────┼─────────────────────────────────────────────────────────┤
-│ Role                 │ Software Engineer                                       │
-├──────────────────────┼─────────────────────────────────────────────────────────┤
-│ Location             │ Kohat, Pakistan 🇵🇰                                      │
-└──────────────────────┴─────────────────────────────────────────────────────────┘
+</div>
 
+<div align="center">
 
-┌────────────────────────────────────────────────────────────────────────────────┐
-│                                  TECH STACK                                    │
-├──────────────────────┬─────────────────────────────────────────────────────────┤
-│    Mobile            │ Flutter • Dart                                          │
-├──────────────────────┼─────────────────────────────────────────────────────────┤
-│    Web               │ Full Stack Development                                  │
-├──────────────────────┼─────────────────────────────────────────────────────────┤
-│    Desktop           │ Qt Applications                                         │
-├──────────────────────┼─────────────────────────────────────────────────────────┤
-│    Backend           │ RESTful APIs                                            │
-├──────────────────────┼─────────────────────────────────────────────────────────┤
-│    Database          │ SQL • Database Design                                   │
-├──────────────────────┼─────────────────────────────────────────────────────────┤
-│    Architecture      │ Clean Architecture • System Design                      │
-└──────────────────────┴─────────────────────────────────────────────────────────┘
+<a href="https://github.com/codewithkashif17">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39FF14" />
+</a>
+<a href="https://linkedin.com/in/kashif-mehmood-a47594397">
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
+</a>
+<a href="mailto:kashifmehmoodtech17@email.com">
+  <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" />
+</a>
+<a href="https://leetcode.com/u/codeWithKashi_17/">
+  <img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=39FF14" />
+</a>
 
+</div>
 
-┌────────────────────────────────────────────────────────────────────────────────┐
-│                              CURRENTLY MASTERING                               │
-├────────────────────────────────────────────────────────────────────────────────┤
-│     Cloud Computing                                                            │
-│     DevOps & CI/CD                                                             │
-│     Advanced System Design                                                     │
-│     Software Engineering Best Practices                                        │
-└────────────────────────────────────────────────────────────────────────────────┘
+<br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d3320,100:00ff41&height=3&width=100%25" width="100%"/>
 
-┌────────────────────────────────────────────────────────────────────────────────┐
-│                           ENGINEERING PRINCIPLES                               │
-├────────────────────────────────────────────────────────────────────────────────┤
-│ ✔ Clean Code                                                                   │
-│ ✔ SOLID Principles                                                             │
-│ ✔ Performance First                                                            │
-│ ✔ Scalable Architecture                                                        │
-│ ✔ Problem Solving                                                              │
-│ ✔ Continuous Learning                                                          │
-└────────────────────────────────────────────────────────────────────────────────┘
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d3320,100:00ff41&height=3&width=500" />
 
-┌────────────────────────────────────────────────────────────────────────────────┐
-│                             CURRENT STATUS                                     │
-├────────────────────────────────────────────────────────────────────────────────┤
-│ ✔ Flutter Projects                                                             │
-│ ✔ Full Stack Applications                                                      │
-│ ✔ Desktop Applications (Qt)                                                    │
-│ ✔ REST API Development                                                         │
-│ ✔ Software Architecture & System Design                                        │
-└────────────────────────────────────────────────────────────────────────────────┘
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=1200&color=39FF14&center=true&vCenter=true&width=650&height=45&lines=root%40kashiTech%3A~%24+cat+/var/log/skills.log" />
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,50:0d3320,100:000000&height=3&width=500" />
 
-╭────────────────────────────────────────────────────────────────────────────────╮
-│  🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️                              │
-╰────────────────────────────────────────────────────────────────────────────────╯
-```
-
-</br>
-</br>
-</br>
-
-# TECHNOLOGIES
+</div>
 
 <table align="center">
 <tr>
-
-<td align="center" width="33%">
-
-<img src="https://cdn.simpleicons.org/flutter" width="55"/>
-
-### Flutter Developer
-
-Building high-performance
-cross-platform mobile applications.
-
+<td align="center">
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=LANGUAGES&titleAlign=center&align=center&theme=github_dark&bg=%23000000&border=%2339FF14&titleColor=%2339FF14&borderRadius=12&width=460&gap=14&lineHeight=14&lineCount=3&line1=javascript,javascript,auto%3Btypescript,typescript,auto%3Bpython,python,auto%3Bjava,java,auto&line2=cplusplus,cplusplus,auto%3Bcsharp,csharp,auto%3Bphp,php,auto%3Bgo,go,auto&line3=rust,rust,auto%3Bdart,dart,auto" />
 </td>
-
-<td align="center" width="33%">
-
-<img src="https://cdn.simpleicons.org/react" width="55"/>
-
-### Full Stack Engineer
-
-Creating scalable web applications
-using modern technologies.
-
+<td align="center">
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=FRAMEWORKS&titleAlign=center&align=center&theme=github_dark&bg=%23000000&border=%2339FF14&titleColor=%2339FF14&borderRadius=12&width=460&gap=14&lineHeight=14&lineCount=3&line1=react,react,auto%3Bnextdotjs,nextjs,auto%3Bnodedotjs,nodejs,auto&line2=express,express,auto%3Bnestjs,nestjs,auto%3Blaravel,laravel,auto&line3=django,django,auto%3Bflask,flask,auto%3Bspring,spring,auto" />
 </td>
-
-<td align="center" width="33%">
-
-<img src="https://cdn.simpleicons.org/qt" width="55"/>
-
-### Desktop Developer
-
-Developing powerful desktop
-solutions with Qt Framework.
-
-</td>
-
 </tr>
-
 <tr>
-
 <td align="center">
-
-<img src="https://cdn.simpleicons.org/docker" width="55"/>
-
-### DevOps & Cloud
-
-Exploring deployment,
-automation and cloud platforms.
-
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=FRONTEND&titleAlign=center&align=center&theme=github_dark&bg=%23000000&border=%2339FF14&titleColor=%2339FF14&borderRadius=12&width=460&gap=14&lineHeight=14&lineCount=2&line1=html5,html5,auto%3Bcss3,css3,auto%3Btailwindcss,tailwind,auto&line2=bootstrap,bootstrap,auto%3Bmui,materialui,auto" />
 </td>
-
 <td align="center">
-
-<img src="https://cdn.simpleicons.org/leetcode" width="55"/>
-
-### Problem Solver
-
- Algorithms,
-system design and optimization.
-
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=DATABASE&titleAlign=center&align=center&theme=github_dark&bg=%23000000&border=%2339FF14&titleColor=%2339FF14&borderRadius=12&width=460&gap=14&lineHeight=14&lineCount=2&line1=mysql,mysql,auto%3Bpostgresql,postgresql,auto%3Bmongodb,mongodb,auto&line2=redis,redis,auto%3Bfirebase,firebase,auto" />
 </td>
-
+</tr>
+<tr>
 <td align="center">
-
-<img src="https://cdn.simpleicons.org/github" width="55"/>
-
-### Open Source
-
-Learning, building and contributing
-to the developer community.
-
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=CLOUD&titleAlign=center&align=center&theme=github_dark&bg=%23000000&border=%2339FF14&titleColor=%2339FF14&borderRadius=12&width=460&gap=14&lineHeight=14&lineCount=2&line1=amazonaws,aws,auto%3Bmicrosoftazure,azure,auto%3Bgooglecloud,gcp,auto&line2=docker,docker,auto%3Bkubernetes,kubernetes,auto" />
 </td>
-
+<td align="center">
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=DEVOPS&titleAlign=center&align=center&theme=github_dark&bg=%23000000&border=%2339FF14&titleColor=%2339FF14&borderRadius=12&width=460&gap=14&lineHeight=14&lineCount=2&line1=git,git,auto%3Bgithub,github,auto%3Bgithubactions,githubactions,auto&line2=linux,linux,auto%3Bnginx,nginx,auto" />
+</td>
 </tr>
 </table>
-
-</br>
-</br>
-</br>
-
-#  Tech Stack
-
-##  Programming Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,php,go,rust,dart" />
-
-</p>
-
-</br>
-</br>
-
-##  Frameworks & Libraries
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,laravel,django,flask,spring" />
-
-</p>
-
-</br>
-</br>
-
-##  Frontend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui" />
-
-</p>
-
-</br>
-</br>
-
-##  Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase" />
-
-</p>
-
-</br>
-</br>
-
-##  Cloud & Infrastructure
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes" />
-
-</p>
-
-</br>
-</br>
-
-## 🔧 DevOps
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,nginx" />
-
-</p>
-
-</br>
-</br>
-
-## 🛠 Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,androidstudio,idea,pycharm" />
-
-</p>
-
-
-</br>
-</br>
-
-
-##  Security Analytics
 
 <table align="center">
 <tr>
-
-<td align="center" width="33%">
-
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-
-### 95%
-**Secure Coding**
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://cdn.simpleicons.org/auth0" width="50"/>
-
-### 92%
-**Authentication**
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://cdn.simpleicons.org/postman" width="50"/>
-
-### 90%
-**API Security**
-
-</td>
-
-</tr>
-
-<tr>
-
 <td align="center">
-
-<img src="https://cdn.simpleicons.org/letsencrypt" width="50"/>
-
-### 88%
-**SSL / TLS**
-
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=TOOLS&titleAlign=center&align=center&theme=github_dark&bg=%23000000&border=%2339FF14&titleColor=%2339FF14&borderRadius=12&width=460&gap=14&lineHeight=14&lineCount=2&line1=visualstudiocode,vscode,auto%3Bpostman,postman,auto%3Bfigma,figma,auto&line2=androidstudio,androidstudio,auto%3Bintellijidea,intellijidea,auto%3Bpycharm,pycharm,auto" />
 </td>
-
-<td align="center">
-
-<img src="https://cdn.simpleicons.org/owasp" style="background: white; border-radius : 50% ; border: 0.5px solid" width="50"/>
-
-### 87%
-**OWASP Top 10**
-
-</td>
-
-<td align="center">
-
-<img src="https://cdn.simpleicons.org/wireguard" width="50"/>
-
-### 85%
-**Network Security**
-
-</td>
-
 </tr>
 </table>
 
-</br>
-</br>
-</br>
+</div>
 
+<br>
 
-
-# LeetCode Progress
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/codeWithKashi_17)](https://leetcode.com/u/codeWithKashi_17/)
-
-
-
-#  GitHub Streak
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d3320,100:00ff41&height=3&width=100%25" width="100%"/>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithkashif17&theme=tokyonight"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d3320,100:00ff41&height=3&width=500" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=1200&color=39FF14&center=true&vCenter=true&width=650&height=45&lines=root%40kashiTech%3A~%24+./analyze.sh+--target%3Dgithub+--verbose" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,50:0d3320,100:000000&height=3&width=500" />
 
 </div>
-
-</br>
-</br>
-</br>
-
-#  Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithkashif17&theme=tokyo-night"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=codewithkashif17&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=c9ffcf" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkashif17&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39FF14&text_color=c9ffcf" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithkashif17&hide_border=true&background=000000&stroke=39FF14&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=C9FFCF" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithkashif17&theme=react-dark&hide_border=true&bg_color=000000&color=39FF14&line=00FF41&point=FFFFFF&area=true&area_color=0d3320" width="100%"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=codewithkashif17&theme=chartreuse-dark&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/codewithkashif17/codewithkashif17/gh-pages/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
+<br>
 
-</br>
-</br>
-</br>
-
-#  Contribution Snake
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d3320,100:00ff41&height=3&width=100%25" width="100%"/>
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d3320,100:00ff41&height=3&width=500" />
 
-  <img src="https://raw.githubusercontent.com/codewithkashif17/codewithkashif17/gh-pages/github-contribution-grid-snake-dark.svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=1200&color=39FF14&center=true&vCenter=true&width=650&height=45&lines=root%40kashif%3A~%24+cat+/var/log/leetcode.log" />
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,50:0d3320,100:000000&height=3&width=500" />
 
 </div>
-
-</br>
-</br>
-</br>
-
-
-# 🗺 Experience Timeline
-
-```text
-2022 ─ Learning Programming
-       │
-2023 ─ Frontend Development
-       │
-2024 ─ Backend Development
-       │
-2025 ─ Full Stack Engineering
-       │
-2025 ─ Flutter Development
-       │
-2026 ─ Desktop Applications (Qt)
-       │
-2026 ─ Cloud & DevOps
-       │
-2026 ─ Open Source Contributions
-       │
-Future ─ Senior Software Engineer
-```
-</br>
-</br>
-</br>
-
-
-
-#  Random Dev Quote
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<a href="https://leetcode.com/u/codeWithKashi_17/">
+  <img src="https://leetcard.jacoblin.cool/codeWithKashi_17?theme=dark&font=Fira%20Code&ext=heatmap" />
+</a>
 
 </div>
 
+<br>
 
-#  GitHub Metrics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d3320,100:00ff41&height=3&width=100%25" width="100%"/>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithkashif17&theme=tokyonight"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d3320,100:00ff41&height=3&width=500" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=1200&color=39FF14&center=true&vCenter=true&width=650&height=45&lines=root%40kashiTech%3A~%24+history+%7C+grep+%22milestone%22" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,50:0d3320,100:000000&height=3&width=500" />
 
 </div>
 
-</br>
-</br>
-</br>
+<div align="center">
 
-# Thanks For Visiting
-
-### Happy Coding 
-
-Made with ❤️ by Kashif Mehmood
+| TIMESTAMP | EVENT_LOG                                                         |
+| :-------: | :---------------------------------------------------------------- |
+|  `2022`   | `[INIT]` Learning Programming                                     |
+|  `2023`   | `[BUILD]` Frontend Development                                    |
+|  `2024`   | `[BUILD]` Backend Development                                     |
+|  `2025`   | `[DEPLOY]` Full Stack Engineering `//` Flutter Development        |
+|  `2026`   | `[DEPLOY]` Desktop Apps (Qt) `//` Cloud & DevOps `//` Open Source |
+| `future`  | `[TARGET]` Senior Software Engineer                               |
 
 </div>
 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d3320,100:00ff41&height=3&width=100%25" width="100%"/>
+
+<div align="center">
+
+<br>
 
 
 
+<br><br>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:0d3320,100:00ff41&section=footer&text=connection%20closed.%20thanks%20for%20visiting.%20%E2%9C%93&fontColor=39FF14&fontSize=22&fontAlignY=75&desc=root@kashiTech%20%E2%80%94%20compiled%20with%20%E2%9D%A4%20in%20Kohat%2C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=90&descSize=13&descColor=39FF14&animation=fadeIn" width="100%"/>
+
+</div>
