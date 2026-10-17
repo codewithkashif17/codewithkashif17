@@ -66,6 +66,7 @@
 </a>
 
 <br/>
+<br/>
 
 <img src="https://img.shields.io/badge/SOLVED-8-3FF14?style=for-the-badge&logo=leetcode&logoColor=3FF14&labelColor=000000" />
 <img src="https://img.shields.io/badge/LANGUAGE-C%2B%2B-3FF14?style=for-the-badge&logo=cplusplus&logoColor=3FF14&labelColor=000000" />
@@ -73,6 +74,7 @@
 
 </div>
 
+<br/>
 <br/>
 
 <div align="center">
