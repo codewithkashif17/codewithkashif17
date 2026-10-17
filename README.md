@@ -10,7 +10,14 @@
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&logo=statuspage&logoColor=39FF14&labelColor=000000" />
 <img src="https://komarev.com/ghpvc/?username=codewithkashif17&label=CONNECTIONS&color=000000&style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/github/followers/codewithkashif17?label=FOLLOWERS&style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=39FF14" />
+
+<a href="https://github.com/codewithkashif17">
+  <img
+    src="https://img.shields.io/github/followers/codewithkashif17?label=FOLLOWERS&style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=39FF14"
+    alt="GitHub Followers"
+  />
+</a>
+
 
 </div>
 
